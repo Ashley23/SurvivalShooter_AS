@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalShooter-AS.CSharp", "SurvivalShooter-AS.CSharp.csproj", "{1E52B7DF-247D-D788-F630-BDF3317DA518}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivalShooter-AS.CSharp.Editor", "SurvivalShooter-AS.CSharp.Editor.csproj", "{0AC9A129-83A1-CE02-665B-F6D9AFCA7E58}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E52B7DF-247D-D788-F630-BDF3317DA518}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E52B7DF-247D-D788-F630-BDF3317DA518}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E52B7DF-247D-D788-F630-BDF3317DA518}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E52B7DF-247D-D788-F630-BDF3317DA518}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AC9A129-83A1-CE02-665B-F6D9AFCA7E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AC9A129-83A1-CE02-665B-F6D9AFCA7E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AC9A129-83A1-CE02-665B-F6D9AFCA7E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AC9A129-83A1-CE02-665B-F6D9AFCA7E58}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
